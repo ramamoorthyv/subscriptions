@@ -1,0 +1,6 @@
+.github
+.obj
+.DS_Store
+*.log
+*.tmp
+*.bak
